@@ -1,0 +1,22 @@
+.sections {
+  color: rgb(255, 255, 255);
+  font-weight: 900;
+}
+
+.restSections {
+  color: white;
+  font-weight: 400;
+}
+
+.navBarColor {
+  background-color: rgb(99, 96, 96);
+}
+
+h1 {
+  font-weight: 700;
+}
+
+body {
+  background-color: rgb(223, 213, 213);
+  scroll-behavior: smooth;
+}

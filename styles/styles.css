@@ -1,0 +1,29 @@
+.sections{
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+.restSections{
+    color: white;
+    font-weight:400;
+}
+
+.navBarColor{
+    background-color: rgb(99, 96, 96);
+    
+}
+
+h1{
+    font-weight: 700;
+}
+
+body{
+    background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
+    scroll-behavior: smooth;
+}
+
+.card-text{
+    justify-content: center;
+    text-align: justify;
+}
+
